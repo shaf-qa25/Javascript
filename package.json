@@ -1,0 +1,23 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "guessNumber.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaf-qa25/Javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shaf-qa25/Javascript/issues"
+  },
+  "homepage": "https://github.com/shaf-qa25/Javascript#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
