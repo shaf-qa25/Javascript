@@ -25,3 +25,4 @@ while(inp!=a){
         console.log("Please enter number between 0 and 100");
     }
 }
+
