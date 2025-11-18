@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "lost-and-found-portal",
+			"path": "../lost-and-found-portal"
+		}
+	],
+	"settings": {}
+}
